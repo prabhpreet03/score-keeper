@@ -1,0 +1,40 @@
+body,html{
+margin: 0;
+padding: 0;
+background: rgb(0, 0, 69);
+color: aliceblue;
+
+}
+.score-board h1{
+    display: inline;
+    background: rgb(126, 0, 0);
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+#compar-to{
+    background: none;
+    text-align: center;
+}
+.score-board{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.playing-til h5{
+    display: inline;
+    margin: 0 auto;
+    font-size: 30px;
+}
+.playing-til{
+    margin-bottom: 20px;
+    text-align: center;
+}
+.number-form{
+    padding: 5px 0;
+    margin: 30px 0;
+}
+.control-buttons{
+    text-align: center;
+    height: 30px;
+}
